@@ -441,7 +441,7 @@ Pace: <Fast / Normal / Slow>
 Rest: <Fresh / Short Rested / Long Rested / Exhausted>
 
 --- Dice Arrays ---
-d4[<index>/<total>]: <full values as comma-separated list>
+d4[<index>/<total>]: <full array values as comma-separated list>
 d6[<index>/<total>]: <full array values as comma-separated list>
 d8[<index>/<total>]: <full array values as comma-separated list>
 d10[<index>/<total>]: <full array values as comma-separated list>
